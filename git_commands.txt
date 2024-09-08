@@ -16,5 +16,5 @@ rm testing.py
 git restore testing.py
 git remote add origin https://github.com/YeshwanthKare/github-for-devops-workshop.git
 git branch -M main
-git remote set-url origin https://YeshwanthKare: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@github.com/YeshwanthKare/github-for-devops-workshop.git
+git remote set-url origin https://YeshwanthKare:"token"@github.com/YeshwanthKare/github-for-devops-workshop.git
 git push origin main
