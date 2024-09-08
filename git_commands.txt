@@ -14,7 +14,7 @@ git status
 git status
 rm testing.py
 git restore testing.py
-git remote add origin https://github.com/YeshwanthKare/github-for-devops-workshop.git
+1001 git remote add origin https://github.com/YeshwanthKare/github-for-devops-workshop.git
 git branch -M main
-/* git remote set-url origin https://<username>:<token>@github.com/YeshwanthKare/github-for-devops-workshop.git */
+1002 it remote set-url origin https://<username>:<token>@github.com/YeshwanthKare/github-for-devops-workshop.git */
 git push origin main
