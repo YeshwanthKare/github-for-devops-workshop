@@ -1,0 +1,16 @@
+1003  python testing.py
+ 1004  ls -l
+ 1005  git init
+ 1006  ls -la
+ 1007  ls -a
+ 1008  got status
+ 1009  git status
+ 1010  ls
+ 1011  git status
+ 1012  git add .
+ 1013  git status
+ 1014  git commit -m "added testing files"
+ 1015  git status
+ 1016  git status
+ 1017  rm testing.py
+ 1018  git restore testing.py
