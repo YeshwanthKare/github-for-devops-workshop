@@ -1,6 +1,6 @@
 def my_func():
 
     a = 5
-    return a 
+    return a
 
 my_func()
